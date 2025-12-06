@@ -20,4 +20,4 @@ This will:
 - Create `submission.csv`
 
 ## Author
-Evan Callan – Machine Learning Final Project
+Evan Callan – Churn Analysis Final
